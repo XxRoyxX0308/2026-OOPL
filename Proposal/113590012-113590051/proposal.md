@@ -1,11 +1,11 @@
 # Abstract
-遊戲名稱：Infinitode - Tower Defense  
+遊戲名稱：Infinitode 2 - Tower Defense  
 組員：  
 - 113590012 盧沛源  
 - 113590051 楊承諭  
 
 # Game Introduction
-Infinitode 是一款無限型塔防（Tower Defense）策略遊戲，玩家必須不斷建造各種砲塔來阻止源源不絕的敵人波次抵達基地。  
+Infinitode 2 是一款無限型塔防（Tower Defense）策略遊戲，玩家必須不斷建造各種砲塔來阻止源源不絕的敵人波次抵達基地。  
 遊戲沒有傳統的「關卡結束」，而是挑戰玩家能存活多久、擊敗多少波敵人。玩家可以透過研究升級樹解鎖新砲塔、特殊能力與資源開採方式，並在巨大地圖上自由佈置防禦策略。不同類型的敵人有各自的弱點與特性，玩家必須靈活搭配砲塔（如狙擊、飛濺、毒素、雷射等）才能有效應對越來越強的敵人浪潮。
 
 [遊戲參考連結（Infinitode 2 官方介紹影片）](https://www.youtube.com/watch?v=wgeAqNcoRmU)
