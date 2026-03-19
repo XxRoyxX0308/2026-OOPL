@@ -15,6 +15,7 @@
 在遊戲過程中，地圖內會有鬼怪不斷追逐玩家，一旦被鬼碰到就會失去生命。
 部分版本中還有「能量豆」，吃下後小精靈可以在短時間內反過來吃掉鬼怪，增加遊戲的變化性與趣味性。
 
+遊戲影片：https://www.youtube.com/watch?v=dScq4P5gn4A
 
 
 # Development timeline
